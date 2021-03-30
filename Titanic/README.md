@@ -1,0 +1,1 @@
+***Titanic dataset toy model in tensorflow using normal Sequential keras model and the Class API***
